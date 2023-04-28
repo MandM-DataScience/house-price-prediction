@@ -17,3 +17,5 @@ __pycache__/*
 .gitconfig
 *.swp
 Flows/.ipynb_checkpoints/*
+not_staged_notebooks/*
+notebooks/.ipynb_checkpoints/*
